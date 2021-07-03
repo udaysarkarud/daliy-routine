@@ -1,0 +1,20 @@
+body{
+    background-color: #4a5459;
+    font-family: Consolas;
+    letter-spacing: 5px;
+}
+div{
+ float: right;
+ margin: 30px;
+}
+h3{
+    color: #fdcc31;
+    font-size: 2em;
+    padding: 0px;
+    margin: 0px;
+    font-weight: 400;
+}
+span{
+    color: #bd19f3;
+    font-size: 2em;
+}
